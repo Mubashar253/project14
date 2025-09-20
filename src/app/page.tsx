@@ -25,9 +25,9 @@ export default function HomePage() {
         </div>
       </div>
 
-      <div className="relative aspect-[4/3] w-full">
+      <div className="relative aspect-[4/4.5] w-full">
         <Image
-          src="/hero.jpg"
+          src="/Hassan.jpg"
           alt="Homepage hero image"
           fill
           className="object-cover rounded-lg shadow"
